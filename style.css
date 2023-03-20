@@ -1,0 +1,11 @@
+body{
+    background-image: linear-gradient(to right top, #f13333, #d98525, #6cc118, #03ffea, #fff200);
+}
+#header{
+    font-family: 'Yeon Sung', cursive;
+    color: rgb(197, 0, 92);
+}
+.bn{
+    background-size: 30px;
+    background-color: #ffffff;
+}
